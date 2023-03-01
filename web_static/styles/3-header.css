@@ -1,17 +1,16 @@
 header 
   {
-    background-color: #333333;
     color: white;
     height: 70px;
     width: 100%;
     padding: 20px;
-    box-shadow:rgba(0, 0, 0, 0.06) 0px 1px 12px;
     border-bottom: 1px #CCCCCC;
+    border-style: solid;
   }
 
 .logo 
   {
-    background-image: url('../images/logo.png');
+    background-image: url('../images/icon_logo_wide.png');
     vertical-align: middle;
     margin-left: 18px;
     height: 100%;
